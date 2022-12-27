@@ -1,12 +1,12 @@
-<p align='center'>
-República De Angola
-Ministério Da Educação 
-Instituto Médio Industrial De Luanda (IMIL)
-Trabalho de F.A.I
-Tema: 
-A 
-eutanásia 
-</p>
+<div align='center'>
+	República De Angola
+	
+	Ministério Da Educação
+	Instituto Médio Industrial De Luanda (IMIL)
+	Trabalho de F.A.I
+	Tema: A
+	eutanásia 
+</div>
 
 
 # Índice
