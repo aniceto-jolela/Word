@@ -175,9 +175,9 @@ diretamente na já longa e persistente luta do povo angolano, primeiro, para res
 
 ## Bibliografia
 
-https://www.repúblicadeAngola.com
-https://www.wikipédia.org
-https://www.google.com
-https://www.ConstituiçãodeAngola.com
+* https://www.repúblicadeAngola.com
+* https://www.wikipédia.org
+* https://www.google.com
+* https://www.ConstituiçãodeAngola.com
 
 
