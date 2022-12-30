@@ -1,32 +1,30 @@
-<p align="center">
+<div align="center">
 	<img src="logo.jpg" />
 
-Campus Universitário de Viana
-Universidade Jean Piaget de Angola
-(Criada pelo Decreto nº 44-A/01 de 6 de julho de 2001)
+	Campus Universitário de Viana
+	Universidade Jean Piaget de Angola
+	
+	(Criada pelo Decreto nº 44-A/01 de 6 de julho de 2001)
+	Faculdade de Ciências da Saúde
 
-Faculdade de Ciências da Saúde
-
-
-
-EPISTEMOLOGIA 
+	EPISTEMOLOGIA 
 
 
-TEORIA DE CONFORTO – KATHARINE KOLCABA
-</p>
+	TEORIA DE CONFORTO – KATHARINE KOLCABA
+</div>
 
 # Índice
 
-[INTRODUÇÃO](#introducao)
-[OBJECTIVOS](#objectivos)
+* [INTRODUÇÃO](#introdução)
+* [OBJECTIVOS](#objectivos)
   - Geral
   - Específicos
-[FUNDAMENTAÇÃO TEORICA](#fundamentacao-teorica)
-[Terminologias](#terminologias)
-[História de conforto segundo Kolcaba](#historia-de-conforto-segundo-kolcaba)
-[Medidas, tratamentos e contributos no conforto do paciente](#medidas-tratamentos-e-contributos-no-conforto-do-paciente)
-[As maneiras de proporcionar conforto](#as-maneiras-de-proporcionar-conforto)
-[CONCLUSÃO](#conclusao)
+* [FUNDAMENTAÇÃO TEORICA](#fundamentação-teorica)
+* [Terminologias](#terminologias)
+* [História de conforto segundo Kolcaba](#história-de-conforto-segundo-kolcaba)
+* [Medidas, tratamentos e contributos no conforto do paciente](#medidas-tratamentos-e-contributos-no-conforto-do-paciente)
+* [As maneiras de proporcionar conforto](#as-maneiras-de-proporcionar-conforto)
+* [CONCLUSÃO](#conclusão)
 
 
 
@@ -47,9 +45,9 @@ Descrever a utilização da teoria de conforto de Kolcaba para os cuidados de en
 1.	Explicar as maneiras e as medidas para proporcionar o conforto
 2.	Abordar metaparadigmas da teoria de conforto
 3.	Identificar o contributo e o tratamento de enfermagem 
-FUNDAMENTAÇÃO TEORICA
+## FUNDAMENTAÇÃO TEORICA
 
-## Terminologias
+### Terminologias
 Enfermagem é a arte e a ciência de cuidar ao ser humano no atendimento das suas necessidades básicas, a fim de recuperar manter e promover a sua saúde em colaboração com outros profissionais; (Horta 2012).
 
 Conforto é o estado de bem-estar, que pode ocorrer durante qualquer estágio do processo saúde-doença, que pode ser temporário ou longo.

@@ -1,24 +1,25 @@
-<p align="center">
-República De Angola
-Ministério Da Educação 
-Instituto Médio Industrial De Luanda (IMIL)
-Trabalho de F.A.I
-Tema: 
-Constituição da república de Angola 
-</p>
+<div align="center">
+	República De Angola
+	
+	Ministério Da Educação 
+	Instituto Médio Industrial De Luanda (IMIL)
+	Trabalho de F.A.I
+	Tema: 
+	Constituição da república de Angola 
+</div>
 
 
 # Sumário
 
-[Introdução](#introducao)
-[Constituição](#constituicao)
-[Princípio da unidade da constituição](#principio-da-unidade-da-constituicao)
-[As primeiras Constituições dos países africanos de língua portuguesa](as-primeiras-constituicoes-dos-paises-africanosde-lingua-portuguesa)
-[Alguns artigos da república de Angola](#alguns-artigos-da-republica-de-angola)
-[A lei constitucional angolana de 1992](#a-lei-constitucional-angolana-de-1992)
-[Da lei constitucional de 1992 à Constituição de 2010](#da-lei-constitucional-de-1992-a-constituicao-de-2010)
-[Conclusão](#conclusao)
-[Bibliografia](#bibliografia)
+* [Introdução](#introdução)
+* [Constituição](#constituição)
+* [Princípio da unidade da constituição](#princípio-da-unidade-da-constituição)
+* [As primeiras Constituições dos países africanos de língua portuguesa](#as-primeiras-constituições-dos-países-africanos-de-língua-portuguesa)
+* [Alguns artigos da república de Angola](#alguns-artigos-da-república-de-angola)
+* [A lei constitucional angolana de 1992](#a-lei-constitucional-angolana-de-1992)
+* [Da lei constitucional de 1992 à Constituição de 2010](#da-lei-constitucional-de-1992-à-constituição-de-2010)
+* [Conclusão](#conclusão)
+* [Bibliografia](#bibliografia)
 
 
 # Introdução
@@ -48,7 +49,6 @@ Em decorrência desse princípio, tem-se que todas as normas da Constituição p
  
 ## As primeiras Constituições dos países africanos de língua portuguesa
 
-
  O acesso à independência dos cinco países africanos de língua portuguesa não se fez ao mesmo tempo e nos mesmos termos em que decorreu o acesso à independência dos demais países da África. Naturalmente tal como por toda a parte, esse tempo e esse modo haviam de determinar os seus sistemas políticos e constitucionais originários.
 Com efeito, depois de ter sido longamente retardado por causa do regime político autoritário em Portugal, deu se a ritmo acelerado logo que este regime foi substituído, e em cerca de 15 meses. Os “movimentos de libertação” que tinham conduzido a luta (política militar ou só política) receberam o poder, praticamente sem transição gradual, por meio de acordos então celebrados com o Estado Português. 
 Nuns casos (Guiné, Moçambique e Angola) os próprios movimentos viriam a proclamar a independência e a outorgar Constituições; noutros casos (Cabo Verde e S. Tomé e Príncipe), ela seria declarada formalmente por assembleias eleitas, mas todas dominadas pelos respectivos movimentos, transformados também logo em partidos únicos.
@@ -70,10 +70,10 @@ Tudo isto e a influência ou a aproximação à União Soviética (então no má
 
 ## Alguns artigos da república de Angola
 
-Artigo 1.º
+- Artigo 1.º
 (República de Angola)
 Angola é uma República soberana e independente, baseada na dignidade da pessoa humana e na vontade do povo angolano, que tem como objetivo fundamental a construção de uma sociedade livre, justa, democrática, solidária, de paz, igualdade e progresso social.
-Artigo 9.º
+- Artigo 9.º
 (Nacionalidade)
 1. A nacionalidade angolana pode ser originária ou adquirida.
 2. É cidadão angolano de origem o filho de pai ou de mãe de nacionalidade
@@ -84,7 +84,7 @@ território angolano.
 originária.
 5. A lei estabelece os requisitos de aquisição, perda e reaquisição da
 nacionalidade angolana.
-Artigo 13.º
+- Artigo 13.º
 (Direito Internacional)
 1. O direito internacional geral ou comum, recebido nos termos da presente
 Constituição, faz parte integrante da ordem jurídica angolana.
@@ -92,14 +92,14 @@ Constituição, faz parte integrante da ordem jurídica angolana.
 vigoram na ordem jurídica angolana após a sua publicação oficial e entrada
 em vigor na ordem jurídica internacional e enquanto vincularem
 internacionalmente o Estado angolano.
-Artigo 23.º
+- Artigo 23.º
 (Princípio da igualdade)
 1. Todos são iguais perante a Constituição e a lei.
 2. Ninguém pode ser prejudicado, privilegiado, privado de qualquer direito ou isento de qualquer dever em razão da sua ascendência, sexo, raça, etnia, cor,
 deficiência, língua, local de nascimento, religião, convicções políticas,
 ideológicas ou filosóficas, grau de instrução, condição económica ou social
 ou profissão.
-Artigo 25.º
+- Artigo 25.º
 (Estrangeiros e apátridas)
 1. Os estrangeiros e apátridas gozam dos direitos, liberdades e garantias
 fundamentais, bem como da protecção do Estado.
@@ -117,19 +117,19 @@ lei;
 h) Os demais direitos e deveres reservados exclusivamente aos cidadãos
 angolanos pela Constituição e pela lei.
 
-Artigo 32.º
+- Artigo 32.º
 (Direito à identidade, à privacidade e à intimidade)
 1. A todos são reconhecidos os direitos à identidade pessoal, à capacidade civil, à nacionalidade, ao bom nome e reputação, à imagem, à palavra e à reserva
 de intimidade da vida privada e familiar.
 2. A lei estabelece as garantias efetivas contra a obtenção e a utilização, abusivas ou contrárias à dignidade humana, de informações relativas às
 pessoas e às famílias.
-Artigo 40.º
+- Artigo 40.º
 (Liberdade de expressão e de informação)
 1. Todos têm o direito de exprimir, divulgar e compartilhar livremente os seus
 pensamentos, as suas ideias e opiniões, pela palavra, imagem ou qualquer
 outro meio, bem como o direito e a liberdade de informar, de se informar e de
 ser informado, sem impedimentos nem discriminações.
-Artigo 51.º
+- Artigo 51.º
 (Direito à greve e proibição do lock out)
 1. Os trabalhadores têm direito à greve.
 2. É proibido o lock out, não podendo o empregador provocar a paralisação total
@@ -139,15 +139,10 @@ conflitos laborais.
 3. A lei regula o exercício do direito à greve e estabelece as suas limitações nos
 serviços e actividades considerados essenciais e inadiáveis para acorrer à
 satisfação de necessidades sociais impreteríveis.
-Artigo 60.º
+- Artigo 60.º
 (Proibição de tortura e de tratamentos degradantes)
 Ninguém pode ser submetido a tortura, a trabalhos forçados, nem a tratamentos ou
 penas cruéis, desumanas ou degradantes.
-
-
-
-
-
 
 
 
@@ -180,9 +175,9 @@ diretamente na já longa e persistente luta do povo angolano, primeiro, para res
 
 ## Bibliografia
 
-https://www.repúblicadeAngola.com
-https://www.wikipédia.org
-https://www.google.com
-https://www.ConstituiçãodeAngola.com
+* https://www.repúblicadeAngola.com
+* https://www.wikipédia.org
+* https://www.google.com
+* https://www.ConstituiçãodeAngola.com
 
 

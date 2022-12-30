@@ -1,27 +1,28 @@
-<p align='center'>
-República De Angola
-Ministério Da Educação 
-Instituto Médio Industrial De Luanda (IMIL)
-Trabalho de F.A.I
-Tema: 
-A 
-eutanásia 
-</p>
+<div align='center'>
+	República De Angola
+	
+	Ministério Da Educação
+	Instituto Médio Industrial De Luanda (IMIL)
+	Trabalho de F.A.I
+	Tema: A
+	eutanásia 
+</div>
 
 
 # Índice
 
-[Introdução](#introducao)
-[Conceito da eutanásia](#conceito-da-eutanasia)
-[Tipos de Eutanásia](#tipos-de-eutanasia)
-[Eutanásia no hospital](#eutanasia-no-hospital)
-[Problemas de Fim de Vida](#problemas-de-fim-de-vida)
-  - Paciente Terminal, Morte e Morrer
-[Eutanásia na religião](#eutanasia-na-religiao)
-[Eutanásia em Angola](#eutanasia-em-angola)
-[Perspectiva do doente](#perspectiva-do-doente)
-[Conclusão](#conclusao)
-[Bibliografia](#bibliografia)
+* [Introdução](#introdução)
+* [Conceito da eutanásia](#conceito-da-eutanásia)
+* [Tipos de Eutanásia](#tipos-de-eutanásia)
+* [Eutanásia no hospital](#eutanásia-no-hospital)
+* [Problemas de Fim de Vida](#problemas-de-fim-de-vida)
+  - Paciente Terminal
+  - Morte e Morrer
+* [Eutanásia na religião](#eutanásia-na-religião)
+* [Eutanásia em Angola](#eutanásia-em-angola)
+* [Perspectiva do doente](#perspectiva-do-doente)
+* [Conclusão](#conclusão)
+* [Bibliografia](#bibliografia)
 
 
 ## Introdução
@@ -50,13 +51,13 @@ A participação na eutanásia não somente alterará o objetivo da atenção à
 
 Atualmente a eutanásia pode ser classificada de várias formas:
 Quanto ao tipo de ação: 
-	Eutanásia ativa: o ato deliberado de provocar a morte sem sofrimento do paciente, por fins misericordiosos. 
-	Eutanásia passiva ou indireta: a morte do doente ocorre por falta de recursos necessários para manutenção das suas funções vitais (falta de água, alimentos, fármacos ou cuidados médicos).
-	Eutanásia de duplo efeito: quando a morte é acelerada como uma consequência indireta das ações médicas que são executadas visando o alívio do sofrimento de um paciente terminal.
+-	Eutanásia ativa: o ato deliberado de provocar a morte sem sofrimento do paciente, por fins misericordiosos. 
+-	Eutanásia passiva ou indireta: a morte do doente ocorre por falta de recursos necessários para manutenção das suas funções vitais (falta de água, alimentos, fármacos ou cuidados médicos).
+-	Eutanásia de duplo efeito: quando a morte é acelerada como uma consequência indireta das ações médicas que são executadas visando o alívio do sofrimento de um paciente terminal.
 Quanto ao consentimento do paciente:
-	Eutanásia voluntária: quando a morte é provocada atendendo a uma vontade do paciente. 
-	Eutanásia involuntária: quando a morte é provocada contra a vontade do paciente. 
-	Eutanásia não voluntária: quando a morte é provocada sem que o paciente tivesse manifestado sua posição em relação a ela.
+-	Eutanásia voluntária: quando a morte é provocada atendendo a uma vontade do paciente. 
+-	Eutanásia involuntária: quando a morte é provocada contra a vontade do paciente. 
+-	Eutanásia não voluntária: quando a morte é provocada sem que o paciente tivesse manifestado sua posição em relação a ela.
 
 Ortanásia , Distanásia e Mistinásia
 
@@ -72,7 +73,8 @@ O tratamento da dor tem evoluído, mas ainda não resolve todos os problemas.
 No caso dos doentes oncológicos terminais ou com insuficiência respiratória, as bolas de morfina confortam o doente e antecipam a morte.
 
 ## Problemas de Fim de Vida:
-  - Paciente Terminal, Morte e Morrer
+  - Paciente Terminal
+  - Morte e Morrer
 
 O atendimento a pacientes terminais, ou melhor em pessoas perto de final de suas vidas, pode representar uma situação de extrema dificuldade para os médicos, apesar do fato da morte ser um evento inexorável para os seres vivos. 
 Habitualmente, o termo doente terminal tem sido utilizado para pessoas que tenham um prognóstico médico de sobrevida não superior a seis meses.
@@ -89,14 +91,16 @@ Em seu julgamento, ele deverá levar em conta que somente um fato moral muito re
 Ninguém vive para si mesmo, como também ninguém morre para si próprio. A vida tem uma referência social e transpessoal, associada ao amor, à responsabilidade, à interdependência e ao bem comum.
 E o valor da vida de cada pessoa para toda sociedade não desaparece quando essa pessoa deixa de ser útil, deixa de produzir, perde quaisquer capacidades, ou pode vir a ser sentida como “peso pelos outros”.
 As causas principais da pratica da eutanásia são: materialismo, o egoísmo, o orgulho e a ignorância. 
-A eutanásia em Angola
+
+## Eutanásia em Angola
 A tendência legal moderada é a de punir, apenas, quem incitar outra pessoa a suicidar-se, ou lhe prestar ajuda para esse fim. 
 O código penal angolano estabelece esta previsão pelo artigo 354° acrescendo no seu parágrafo único a impossibilidade legal da eutanásia por essa vida.
 Tal como o aborto, na maior parte do casos procura prevenir o mesmo sofrimento.
 Foi proposto na assembleia a realização de um referendo mas a lei que prevê penas de 4 a 10 anos acabou por ser aprovada sem votos contra.
 O aborto não é somente contrário à lei divina, mas contra a identidade cultural angolana e portanto, uma ameaça contra a existência da nação, a vida é sempre sagrada, é o primeiro bem deste mundo.
 Artigo 139 (aborto).
-Perspectiva do doente
+
+## Perspectiva do doente
 As pessoas com doença crônica e, portanto, incurável, ou em estado terminal, têm naturalmente momentos de desespero, momentos de um sofrimento físico e psíquico muito intenso, mas também há momentos em que vivem a alegria e a felicidade. Estas pessoas lutam dia após dia para viverem um só segundo mais.
  Nem sempre um ser humano com uma determinada patologia quer morrer "porque não tem cura"! Muitas vezes acontece o contrário, tentam lutar contra a Morte. 
 Em alguns casos surgem os doentes que realmente estão cansados de viver, que não aguentam mais sentirem-se "um fardo", ou sentirem-se sozinhos, apenas acompanhados por um enorme sofrimento de ordem física, psíquica ou social. 
